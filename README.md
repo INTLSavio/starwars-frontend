@@ -1,6 +1,6 @@
 # Star Wars Frontend
 - This is a client for the CRUD of a Star Wars's characters.
--To see the **api**, click here: [Star Wars Backend](https://github.com/INTLSavio/starwars-backend)
+- To see the **api**, click here: [Star Wars Backend](https://github.com/INTLSavio/starwars-backend)
 
 ## Technologies
 
